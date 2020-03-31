@@ -9,10 +9,10 @@ import './SinglePost.css'
 
 export const SinglePostTemplate = ({
   title,
+  date,
   body,
   nextPostURL,
   prevPostURL,
-  date = new Date(),
   categories = []
 }) => (
   <main>
@@ -33,7 +33,7 @@ export const SinglePostTemplate = ({
                 itemProp="dateCreated pubdate datePublished"
                 date={date}
               >
-                {date.toLocaleDateString('pt-BR', {
+                {new Date(date).toLocaleDateString('pt-BR', {
                   hour: '2-digit',
                   minute: '2-digit',
                   day: '2-digit',
