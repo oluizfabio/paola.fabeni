@@ -42,7 +42,7 @@ export const SinglePostTemplate = ({
                 })}
               </time>
             )}
-            {categories.length > 0 && (
+            {categories && categories.length > 0 && (
               <Fragment>
                 <span>|</span>
                 {categories.map((cat, index) => (
