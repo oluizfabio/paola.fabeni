@@ -15,13 +15,9 @@ meta:
 ---
 O risoto é um preparo versátil, clássico e muito rico em sabor. A combinação de limão siciliano e camarão é surpreendente e refrescante.  
 
-
-
 Esse prato tem feito sucesso nos almoços de família por aqui, e abaixo você confere os passos e ingredientes para preparar essa delícia. 
 
-## Ingredientes caldo: 
-
-
+## Ingredientes caldo:
 
 * 5 talos grandes de salsão 
 * 1 cenoura grande 
@@ -30,15 +26,7 @@ Esse prato tem feito sucesso nos almoços de família por aqui, e abaixo você c
 * 2 xícaras de cascas de camarão 
 * 1 xícara de cabeças de camarão 
 
-
-
- 
-
-
-
-## Ingredientes risoto: 
-
-
+## Ingredientes risoto:
 
 * Manteiga 
 * Sal e pimenta 
@@ -51,156 +39,76 @@ Esse prato tem feito sucesso nos almoços de família por aqui, e abaixo você c
 * 150g de queijo grana padano 
 * 2 limões sicilianos 
 
- 
-
-
-
-## Mise em place caldo: 
-
-
+## Mise em place caldo:
 
 Higienize todos os legumes, as cascas e principalmente as cabeças do camarão.  
 
-
-
 Pique os talos do salsão em pedaços.  
-
-
 
 Descasque a cenoura e pique em rodelas grossas (se sua cenoura for orgânica não é preciso descascar). 
 
-
-
 Pique a cebola e as folhas do alho poró em pedaços grandes. 
 
-
-
- 
-
-
-
-## Preparo do caldo: 
-
-
+## Preparo do caldo:
 
 Numa panela grande adicione todos os legumes picados, as cascas e cabeças de camarão, complete com 2 litros de água e leve para ferver. Quando levantar fervura abaixe o fogo e deixe cozinhar lentamente até reduzir pela metade. Caso forme uma espuma em cima do caldo vá retirando com uma peneira fina para mantê-lo limpo e translúcido. 
 
-
-
 Quando finalizar coe o caldo e mantenha aquecido para o preparo do risoto. 
 
-
-
 **Dicas:** 
-
-
 
 Não salgue nem tempere o caldo, esse preparo deve conter um sabor natural e limpo.  
 
-
-
 Você pode preparar o caldo e mantê-lo congelado. 
 
-
-
- 
-
-
-
-## Mise em place risoto: 
-
-
+## Mise em place risoto:
 
 Higienize os legumes e os camarõe. 
 
-
-
 Retire raspas dos dois limões sicilianos. 
-
-
 
 Num recipiente tempere os camarões com sal e suco de meio limão. 
 
-
-
 Pique a cebola em cubinhos muito pequenos. Se preferir você pode processar ou ralar. É importante que a cebola esteja bem pequena para não interferir na textura do risoto. 
-
-
 
 Pique o alho em pedaçinhos e o alho poró em tirinhas finas. 
 
-
-
 Rale o queijo na hora, com o ralado mais fino à disposição. 
-
-
 
 **Dicas** 
 
-
-
 Corte o alho poró ao meio, no sentido longitudinal. Dessa forma você acessa todas as camadas do legume, e consegue limpá-lo muito bem. 
 
+![](https://ucarecdn.com/d26b31a5-ed34-42ab-9d09-a1507694e509/)
 
-
-  
-
-
-
-## Preparo do risoto: 
-
-
+## Preparo do risoto:
 
 Numa panela grande doure a cebola, o alho e o alho poró com a manteiga. 
 
-
-
 Adicione os camarões e refogue até que estejam rosados. Retire os camarões e reserve. Na mesma panela coloque o arroz arbóreo e refogue por um minuto. 
-
-
 
 Acione vinho branco até quase cobrir o arroz e mexa até que todo o líquido evapore.  
 
-
-
 Nesse ponto você deve começar a adicionar o caldo quente. Adicione aos poucos, uma ou duas conchas por vez, mexendo sempre. 
-
-
 
 Quando o arroz já estiver aumentado de volume comece a temperar com sal, pimenta e o suco de meio limão siciliano.  
 
-
-
 Continue adicionando o caldo, provando o tempero e textura do arroz.  
-
-
 
 Com o cozimento chegando ao fim adicione as raspas do limão e mais um pouco do suco (coloque metade, prove e se necessário inclua o restante do suco). 
 
-
-
 Adicione o queijo ralado e os camarões reservados. Misture tudo e acerte o tempero para finalizar o cozimento. 
 
-****
+- - -
 
 **Dicas:** 
 
-
-
 O risoto é um preparo que exige dedicação e atenção. Para atingir a textura desejada você deve mexer o risoto durante todo o cozimento. 
-
-
 
 Lembre-se que o queijo que será adicionado ao final do cozimento possui bastante sal, dessa forma acerte o sabor no final do processo. 
 
-
-
 O ponto de cozimento do risoto é quando os grãos estão macios e translúcidos. 
 
-
-
 Caso seu caldo acabe antes do cozimento total do arroz você pode finalizar adicionando água quente. 
-
-
 
 Sirva na hora.
