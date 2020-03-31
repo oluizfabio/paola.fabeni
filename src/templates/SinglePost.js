@@ -33,10 +33,16 @@ export const SinglePostTemplate = ({
                 itemProp="dateCreated pubdate datePublished"
                 date={date}
               >
-                {date.toString()}
+                {date.toLocaleDateString('pt-BR', {
+                  hour: '2-digit',
+                  minute: '2-digit',
+                  day: '2-digit',
+                  month: '2-digit',
+                  year: 'numeric'
+                })}
               </time>
             )}
-            {categories && (
+            {categories.length > 0 && (
               <Fragment>
                 <span>|</span>
                 {categories.map((cat, index) => (
