@@ -9,10 +9,10 @@ import './SinglePost.css'
 
 export const SinglePostTemplate = ({
   title,
-  date,
   body,
   nextPostURL,
   prevPostURL,
+  date = new Date(),
   categories = []
 }) => (
   <main>
