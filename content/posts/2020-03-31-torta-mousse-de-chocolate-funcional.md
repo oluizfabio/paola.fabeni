@@ -10,6 +10,7 @@ excerpt: |
   Tempo de preparo: 2 horas 
 categories:
   - category: Receitas
+  - category: Confeitaria
 meta:
   description: Aprenda esse delicioso doce funcional! Uma torta para servir e encantar!
   title: Torta mousse de chocolate funcional
