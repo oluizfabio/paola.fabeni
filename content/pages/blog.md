@@ -1,10 +1,11 @@
 ---
 template: BlogIndex
 slug: blog
-title: Blog Page
-featuredImage: 'https://ucarecdn.com/b6254577-26bf-4b79-aa9b-f3793e2aebdc/'
-subtitle: This is the blog page subtitle.
+title: 'Blog '
+featuredImage: 'https://ucarecdn.com/e9cd4423-1e2e-4b36-af82-356f0c0ea639/'
+subtitle: Receitas e conteúdos
 meta:
-  description: This is a meta description.
-  title: Blog Page
+  description: Receitas e conteúdos - Por Paola Fabeni.
+  title: 'Blog '
 ---
+
