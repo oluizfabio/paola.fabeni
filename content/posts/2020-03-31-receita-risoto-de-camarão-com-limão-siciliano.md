@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: Receita - Risoto de camarão com limão siciliano
+title: Risoto de camarão com limão siciliano
 status: Published
 date: 2020-03-31T23:25:50.212Z
 featuredImage: 'https://ucarecdn.com/493dd545-689f-4bb8-b34c-592ff239fe15/'
@@ -10,6 +10,7 @@ excerpt: |-
   Tempo de preparo: 2 horas 
 categories:
   - category: Receitas
+  - category: Pratos
 meta:
   description: Confira essa receita deliciosa e risoto de camarão com limão siciliano!
   title: Receita risoto de camarão com limão siciliano
