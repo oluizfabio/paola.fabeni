@@ -2,7 +2,8 @@
 template: BlogIndex
 slug: blog
 title: 'Blog '
-featuredImage: 'https://ucarecdn.com/e9cd4423-1e2e-4b36-af82-356f0c0ea639/'
+featuredImage: >-
+  https://ucarecdn.com/765ecff0-6d5d-4d2f-ac94-7839acbc75e6/-/crop/1732x959/0,953/-/preview/
 subtitle: Receitas e conteúdos
 meta:
   description: Receitas e conteúdos - Por Paola Fabeni.
