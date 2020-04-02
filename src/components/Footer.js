@@ -23,10 +23,7 @@ export default () => (
     <InstagramFeed count="8" />
     <footer className="footer">
       <div className="container taCenter">
-        <span>
-          © Copyright {new Date().getFullYear()} All rights reserved. Crafted by{' '}
-          <a href="https://thriveweb.com.au/">Thrive</a>.
-        </span>
+        <span>© Copyright {new Date().getFullYear()} Paola Fabeni.</span>
       </div>
     </footer>
   </div>
