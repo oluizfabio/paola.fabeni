@@ -17,9 +17,9 @@ meta:
 ---
 ![torta de chocolate funcional](https://ucarecdn.com/5e173510-ac9e-43cf-9c64-b3546ccf4fcc/)
 
-Quer preparar um doce lindo, saboroso e funcional? Essa receita é para você! 
+Quer preparar um doce lindo, saboroso e funcional? Essa receita é para você. Minha nutri (e xará) Paola Müller compartilhou essa receita no instagram ([@paola.nutricionista](https://www.instagram.com/paola.nutricionista/)) e eu testei e aprovei!
 
-Sem glútem e sem lactose, essa torta de chocolate funcional é perfeita para fechar um almoço ou jantar, e agradar à todos, tenham ou não qualquer restrição alimentar. Vamos preparar? 
+Sem glúten e sem lactose, essa torta de chocolate funcional é perfeita para fechar um almoço ou jantar, e agradar à todos, tenham ou não qualquer restrição alimentar. Vamos preparar? 
 
 > Serve: 12 pessoas 
 >
