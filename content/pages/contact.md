@@ -19,5 +19,3 @@ Tem alguma sugestão, dúvida ou reclamação? Você pode falar comigo usando o 
 Você tem uma marca e gostaria de saber mais sobre meu trabalho com produção de conteúdo digital? Vamos bater um papo e entender como uma estratégia de conteúdo pode ajudar no crescimento do seu negócio!
 
 Quer conferir todas as receitas e postagens? [**Acesse o blog aqui**](http://paolafabeni.com/blog/)**.**
-
-Não deixe de me acompanhar no ****[**Instagram.**](https://www.instagram.com/paolafabeni/)****
