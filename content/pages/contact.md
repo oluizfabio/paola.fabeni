@@ -16,12 +16,8 @@ meta:
 
 Tem alguma sugestão, dúvida ou reclamação? Você pode falar comigo usando o formulário de contato ou me enviando um e-mail!
 
-Você tem uma marca e gostaria de saber mais produção de conteúdo digital? Vamos bater um papo e entender como uma estraté
+Você tem uma marca e gostaria de saber mais sobre meu trabalho com produção de conteúdo digital? Vamos bater um papo e entender como uma estratégia de conteúdo pode ajudar no crescimento do seu negócio!
 
-This form is setup to use Netlify's form handling:
+Quer conferir todas as receitas e postagens? [**Acesse o blog aqui**](http://paolafabeni.com/blog/)**.**
 
-* the form action is set to the current absolute url: `action: '/contact/'`
-* a name attribute is sent with the form's data `'form-name': 'Contact'`
-* netlify data attributes are added to the form `data-netlify data-netlify-honeypot`
-
-Find out more in the [Netlify Docs](https://www.netlify.com/docs/form-handling/).
+Não deixe de me acompanhar no ****[**Instagram.**](https://www.instagram.com/paolafabeni/)****
