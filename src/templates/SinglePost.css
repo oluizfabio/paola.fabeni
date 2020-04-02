@@ -3,7 +3,7 @@
 }
 
 .SinglePost--BackButton {
-  color: white;
+  color: var (--primary);
   position: relative;
   display: flex;
   align-items: center;
@@ -18,8 +18,7 @@
   height: 1.2em;
 }
 
-.SinglePost--BackButton:hover svg,
-.SinglePost--BackButton:focus svg {
+.SinglePost--BackButton:hover svg, .SinglePost--BackButton:focus svg {
   transform: translateX(-0.25em);
 }
 
@@ -40,7 +39,7 @@
   text-align: center;
 }
 
-.SinglePost--Meta > * + * {
+.SinglePost--Meta>*+* {
   margin-left: 0.75em;
 }
 

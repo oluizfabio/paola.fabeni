@@ -1,12 +1,13 @@
 :root {
-  --primary: #00c2bd;
+  --primary: #8c52ff;
   --secondary: #000;
   --lightGrey: whitesmoke;
   --midGrey: #cacaca;
   --darkGrey: #272727;
   --danger: #ff3d3d;
   --font-primary: 'Open Sans', sans-serif;
-  --font-system: system-ui; /* postcssPresetEnv */
+  --font-system: system-ui;
+  /* postcssPresetEnv */
   --borderRadius: 3px;
 }
 
@@ -23,7 +24,7 @@
 }
 
 ::selection {
-  background: rgba(0, 194, 189, 0.6);
+  background: var(--primary);
 }
 
 html {
@@ -59,12 +60,7 @@ p {
   margin-bottom: 1em;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+h1, h2, h3, h4, h5, h6 {
   margin: 0;
   margin-bottom: 0.5em;
 }
@@ -83,18 +79,20 @@ code {
   background: var(--lightGrey);
   border-radius: 3px;
 }
-code:before,
-code:after {
+
+code:before, code:after {
   letter-spacing: -0.2em;
   content: '\00a0';
 }
+
 pre code {
   font-size: inherit;
 }
-pre code:before,
-pre code:after {
+
+pre code:before, pre code:after {
   display: none;
 }
+
 blockquote {
   margin-left: 0;
   padding-left: 1em;
@@ -105,28 +103,28 @@ blockquote {
 }
 
 /* Utility Classes */
+
 .light {
   background-color: var(--lightGrey);
 }
+
 .white {
   background-color: white;
 }
+
 .dark {
   background-color: var(--primary);
   color: white;
 }
-.dark h1,
-.dark h2,
-.dark h3,
-.dark h4,
-.dark h5,
-.dark h6 {
+
+.dark h1, .dark h2, .dark h3, .dark h4, .dark h5, .dark h6 {
   color: white;
 }
 
 .relative {
   position: relative;
 }
+
 .absolute {
   position: absolute;
   top: 0;
@@ -134,12 +132,15 @@ blockquote {
   right: 0;
   bottom: 0;
 }
+
 .taCenter {
   text-align: center;
 }
+
 .taLeft {
   text-align: left;
 }
+
 .taRight {
   text-align: right;
 }
@@ -157,15 +158,19 @@ blockquote {
   padding: 5rem 0;
   border-bottom: 1px solid #f1f1f1;
 }
+
 .section:last-child {
   border: 0;
 }
+
 .section.thick {
   padding: 10rem 0;
 }
+
 .section.thin {
   padding: 3.5rem 0;
 }
+
 .section.noPadding {
   padding: 0;
 }
@@ -188,9 +193,11 @@ blockquote {
   width: 90%;
   margin: 0 auto;
 }
+
 .container.skinny {
   max-width: 888px;
 }
+
 .container.skinnier {
   max-width: 555px;
 }
@@ -212,16 +219,18 @@ blockquote {
   cursor: pointer;
   border-radius: var(--borderRadius);
 }
-.Button:hover,
-.Button:focus {
+
+.Button:hover, .Button:focus {
   opacity: 0.95;
   outline: none;
 }
+
 .Button[disabled] {
   opacity: 0.4;
   pointer-events: none;
   cursor: progress;
 }
+
 .Button-blank {
   appearance: none;
   background: none;

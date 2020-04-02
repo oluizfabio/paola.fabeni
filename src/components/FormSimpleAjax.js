@@ -8,11 +8,10 @@ import './Form.css'
 class Form extends React.Component {
   static defaultProps = {
     name: 'Simple Form Ajax',
-    subject: '', // optional subject of the notification email
+    subject: 'Email site', // optional subject of the notification email
     action: '',
-    successMessage: 'Thanks for your enquiry, we will get back to you soon',
-    errorMessage:
-      'There is a problem, your message has not been sent, please try contacting us via email'
+    successMessage: 'Obrigada pela sua mensagem',
+    errorMessage: 'Tivemos um problema, tente nos contactar por email'
   }
 
   state = {
@@ -77,21 +76,21 @@ class Form extends React.Component {
               <input
                 className="Form--Input Form--InputText"
                 type="text"
-                placeholder="Firstname"
+                placeholder="rmeiro nome"
                 name="firstname"
                 required
               />
-              <span>Firstname</span>
+              <span>Prmeiro nome</span>
             </label>
             <label className="Form--Label">
               <input
                 className="Form--Input Form--InputText"
                 type="text"
-                placeholder="Lastname"
+                placeholder="Sobrenome"
                 name="lastname"
                 required
               />
-              <span>Lastname</span>
+              <span>Sobrenome</span>
             </label>
           </div>
           <fieldset>
@@ -103,7 +102,7 @@ class Form extends React.Component {
                 value="male"
                 defaultChecked
               />
-              <span>Male</span>
+              <span>Masculino</span>
             </label>
             <label className="Form--Label Form--Radio">
               <input
@@ -112,7 +111,7 @@ class Form extends React.Component {
                 name="gender"
                 value="female"
               />
-              <span>Female</span>
+              <span>Feminino</span>
             </label>
           </fieldset>
           <label className="Form--Label">
@@ -123,32 +122,27 @@ class Form extends React.Component {
               name="emailAddress"
               required
             />
-            <span>Email address</span>
+            <span>Email</span>
           </label>
           <label className="Form--Label has-arrow">
-            <select
-              className="Form--Input Form--Select"
-              name="type"
-              defaultValue="Type of Enquiry"
+            <input
+              className="Form--Input Form--InputText"
+              type="text"
+              placeholder="Assunto"
+              name="assunto"
               required
-            >
-              <option disabled hidden>
-                Type of Enquiry
-              </option>
-              <option>Need to know more</option>
-              <option>Found a bug</option>
-              <option>Want to say hello</option>
-            </select>
+            />
+            <span>Assunto</span>
           </label>
           <label className="Form--Label">
             <textarea
               className="Form--Input Form--Textarea Form--InputText"
-              placeholder="Message"
+              placeholder="Mensagem"
               name="message"
               rows="10"
               required
             />
-            <span>Message</span>
+            <span>Mensagem</span>
           </label>
           <label className="Form--Label Form-Checkbox">
             <input
@@ -156,7 +150,7 @@ class Form extends React.Component {
               name="newsletter"
               type="checkbox"
             />
-            <span>Get news updates</span>
+            <span>Receba novidades</span>
           </label>
           <div
             className="g-recaptcha"
@@ -167,7 +161,7 @@ class Form extends React.Component {
           <input
             className="Button Form--SubmitButton"
             type="submit"
-            value="Enquire"
+            value="Enviar"
             disabled={this.state.disabled}
           />
         </form>

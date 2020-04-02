@@ -5,8 +5,19 @@ import './Footer.css'
 export default () => (
   <div>
     <h2 className="taCenter">
-      Follow us{' '}
-      <a href="https://instagram.com/thrivegoldcoast/">@thrivegoldcoast</a>
+      Me acompanhe no Instagram{' '}
+      <img
+        className="img-instagram"
+        alt="instagram"
+        src="/images/instagram.png"
+      />{' '}
+      <a
+        href="https://instagram.com/paolafabeni/"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        @paolafabeni
+      </a>
     </h2>
     <br />
     <InstagramFeed count="8" />
