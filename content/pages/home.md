@@ -7,6 +7,6 @@ subtitle: 'Receitas, dicas e conteúdos sobre gastronomia.'
 accordion: []
 meta:
   description: This is a meta description.
-  title: The Ultimate Gatsby Starter
 ---
+
 Olá! Eu sou a Paola e por aqui compartilho algumas receitas, conteúdos e pensamentos sobre o universo da gastronomia!
