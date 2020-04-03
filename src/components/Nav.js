@@ -82,7 +82,7 @@ export class Navigation extends Component {
                 </div>
               </span>
             </div>
-            <NavLink to="/contact/">Contact</NavLink>
+            <NavLink to="/contact/">Contato</NavLink>
           </div>
           <button
             className="Button-blank Nav--MenuButton"
