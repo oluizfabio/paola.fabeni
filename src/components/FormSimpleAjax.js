@@ -124,7 +124,7 @@ class Form extends React.Component {
             />
             <span>Email</span>
           </label>
-          <label className="Form--Label has-arrow">
+          <label className="Form--Label">
             <input
               className="Form--Input Form--InputText"
               type="text"
