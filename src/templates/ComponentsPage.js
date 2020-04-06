@@ -10,66 +10,69 @@ import Gallery from '../components/Gallery'
 import Popup from '../components/Popup'
 
 // Export Template for use in CMS preview
-export const ComponentsPageTemplate = ({
-  title,
-  subtitle,
-  featuredImage,
-  section1,
-  section2,
-  video,
-  videoPoster,
-  videoTitle,
-  accordion,
-  body,
-  gallery
-}) => (
-  <main>
-    <PageHeader
-      title={title}
-      subtitle={subtitle}
-      backgroundImage={featuredImage}
-    />
-    <section className="section">
-      <div className="container">
-        <Content source={section1} />
-      </div>
-    </section>
+export const ComponentsPageTemplate = props => {
+  const {
+    title,
+    subtitle,
+    featuredImage,
+    section1,
+    section2,
+    video,
+    videoPoster,
+    videoTitle,
+    accordion,
+    gallery
+  } = props
 
-    <section className="section">
-      <div className="container">
-        <h2>Our gallery component</h2>
-        <Gallery images={gallery} />
-      </div>
-    </section>
-
-    <section className="section">
-      <div className="container">
-        <Content source={section2} />
-      </div>
-    </section>
-
-    <section className="BackgroundVideo-section section">
-      <BackgroundVideo poster={videoPoster} videoTitle={videoTitle}>
-        {video && <source src={video} type="video/mp4" />}
-      </BackgroundVideo>
-    </section>
-
-    <section className="section">
-      <div className="container">
-        <Accordion items={accordion} />
-      </div>
-    </section>
-
-    <section className="section">
-      <div className="container">
-        <Popup>
+  console.log(gallery)
+  return (
+    <main>
+      <PageHeader
+        title={title}
+        subtitle={subtitle}
+        backgroundImage={featuredImage}
+      />
+      <section className="section">
+        <div className="container">
           <Content source={section1} />
-        </Popup>
-      </div>
-    </section>
-  </main>
-)
+        </div>
+      </section>
 
+      <section className="section">
+        <div className="container">
+          <h2>Our gallery component</h2>
+          <Gallery images={gallery} />
+        </div>
+      </section>
+
+      <section className="section">
+        <div className="container">
+          <Content source={section2} />
+        </div>
+      </section>
+
+      <section className="BackgroundVideo-section section">
+        <BackgroundVideo poster={videoPoster} videoTitle={videoTitle}>
+          {video && <source src={video} type="video/mp4" />}
+        </BackgroundVideo>
+      </section>
+
+      <section className="section">
+        <div className="container">
+          <Accordion items={accordion} />
+        </div>
+      </section>
+
+      <section className="section">
+        <div className="container">
+          <Popup>
+            <Content source={section1} />
+          </Popup>
+        </div>
+      </section>
+    </main>
+  )
+}
 const ComponentsPage = ({ data: { page } }) => (
   <Layout
     meta={page.frontmatter.meta || false}

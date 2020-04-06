@@ -207,15 +207,20 @@ collections: # A list of collections the CMS should be able to edit
           - { label: Slug, name: slug, widget: hidden, default: '' }
           - { label: Title, name: title, widget: string }
           - { label: Featured Image, name: featuredImage, widget: image }
-          - { label: Subtitle, name: subtitle, widget: markdown, required: false }
-          - { label: Body, name: body, widget: markdown }
-          - label: 'Accordion'
-            name: 'accordion'
+          - {
+              label: Subtitle,
+              name: subtitle,
+              widget: markdown,
+              required: false,
+            }
+          - label: 'Gallery'
+            name: 'gallery'
             widget: 'list'
-            required: false
             fields:
-              - { label: 'Title', name: 'title', widget: 'string' }
-              - { label: Content, name: content, widget: text }
+              - { name: image, label: Image, widget: image }
+              - { name: alt, label: Alt, widget: string }
+              - { name: title, label: Title, widget: string, required: false }
+          - { label: Body, name: body, widget: markdown }
           - label: 'Meta'
             required: false
             name: 'meta'

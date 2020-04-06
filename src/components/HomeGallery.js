@@ -1,7 +1,6 @@
 import React, { Component, Fragment } from 'react'
 import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
-import { PhotoSwipe } from 'react-photoswipe'
 import Image from './Image'
 
 import _kebabCase from 'lodash/kebabCase'
@@ -10,18 +9,19 @@ import './Gallery.css'
 import 'react-photoswipe/lib/photoswipe.css'
 
 export const query = graphql`
-  fragment Gallery on MarkdownRemark {
+  fragment HomeGallery on MarkdownRemark {
     frontmatter {
       gallery {
         alt
         image
         title
+        url
       }
     }
   }
 `
 
-export default class Gallery extends Component {
+export default class HomeGallery extends Component {
   state = {
     loaded: false,
     isOpen: false,
@@ -57,21 +57,9 @@ export default class Gallery extends Component {
         }
       )
 
-  componentDidMount() {
-    const { images } = this.props,
-      maxCount = images.length
-    let loopCount = 1
-
-    for (let i in images) {
-      if (this.getImageInfo(images[i], i)) {
-        this.setState({ loaded: loopCount === maxCount })
-        loopCount++
-      }
-    }
-  }
-
   render() {
-    const { images = [] } = this.props
+    const { images = [], url } = this.props
+    console.log(url)
     return (
       <Fragment>
         {images && images.length > 0 && (
@@ -94,22 +82,11 @@ export default class Gallery extends Component {
             ))}
           </div>
         )}
-        {this.state.loaded && this.state.sliderImages.length > 0 && (
-          <PhotoSwipe
-            isOpen={this.state.isOpen}
-            items={this.state.sliderImages}
-            options={{
-              index: this.state.index,
-              history: false
-            }}
-            onClose={() => this.isOpen(false)}
-          />
-        )}
       </Fragment>
     )
   }
 }
 
-Gallery.propTypes = {
+HomeGallery.propTypes = {
   images: PropTypes.array.isRequired
 }
