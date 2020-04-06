@@ -2,96 +2,107 @@ import React, { Fragment } from 'react'
 import _get from 'lodash/get'
 import { Link, graphql } from 'gatsby'
 import { ChevronLeft } from 'react-feather'
-
+import { DiscussionEmbed } from 'disqus-react'
 import Content from '../components/Content'
 import Layout from '../components/Layout'
 import './SinglePost.css'
 
-export const SinglePostTemplate = ({
-  title,
-  date,
-  body,
-  nextPostURL,
-  prevPostURL,
-  categories = []
-}) => (
-  <main>
-    <article
-      className="SinglePost section light"
-      itemScope
-      itemType="http://schema.org/BlogPosting"
-    >
-      <div className="container skinny">
-        <Link className="SinglePost--BackButton" to="/blog/">
-          <ChevronLeft /> Voltar
-        </Link>
-        <div className="SinglePost--Content relative">
-          <div className="SinglePost--Meta">
-            {date && (
-              <time
-                className="SinglePost--Meta--Date"
-                itemProp="dateCreated pubdate datePublished"
-                date={date}
-              >
-                {new Date(date).toLocaleDateString('pt-BR', {
-                  hour: '2-digit',
-                  minute: '2-digit',
-                  day: '2-digit',
-                  month: '2-digit',
-                  year: 'numeric'
-                })}
-              </time>
-            )}
-            {categories && categories.length > 0 && (
-              <Fragment>
-                <span>|</span>
-                {categories.map((cat, index) => (
-                  <span
-                    key={cat.category}
-                    className="SinglePost--Meta--Category"
-                  >
-                    {cat.category}
-                    {/* Add a comma on all but last category */}
-                    {index !== categories.length - 1 ? ',' : ''}
-                  </span>
-                ))}
-              </Fragment>
-            )}
-          </div>
+export const SinglePostTemplate = props => {
+  const {
+    title,
+    date,
+    body,
+    nextPostURL,
+    prevPostURL,
+    categories = [],
+    fields: { slug }
+  } = props
 
-          {title && (
-            <h1 className="SinglePost--Title" itemProp="title">
-              {title}
-            </h1>
-          )}
+  const disqusConfig = {
+    shortname: process.env.GATSBY_DISQUS_NAME,
+    config: { identifier: slug, title }
+  }
+  return (
+    <main>
+      <article
+        className="SinglePost section light"
+        itemScope
+        itemType="http://schema.org/BlogPosting"
+      >
+        <div className="container skinny">
+          <Link className="SinglePost--BackButton" to="/blog/">
+            <ChevronLeft /> Voltar
+          </Link>
+          <div className="SinglePost--Content relative">
+            <div className="SinglePost--Meta">
+              {date && (
+                <time
+                  className="SinglePost--Meta--Date"
+                  itemProp="dateCreated pubdate datePublished"
+                  date={date}
+                >
+                  {new Date(date).toLocaleDateString('pt-BR', {
+                    hour: '2-digit',
+                    minute: '2-digit',
+                    day: '2-digit',
+                    month: '2-digit',
+                    year: 'numeric'
+                  })}
+                </time>
+              )}
+              {categories && categories.length > 0 && (
+                <Fragment>
+                  <span>|</span>
+                  {categories.map((cat, index) => (
+                    <span
+                      key={cat.category}
+                      className="SinglePost--Meta--Category"
+                    >
+                      {cat.category}
+                      {/* Add a comma on all but last category */}
+                      {index !== categories.length - 1 ? ',' : ''}
+                    </span>
+                  ))}
+                </Fragment>
+              )}
+            </div>
 
-          <div className="SinglePost--InnerContent">
-            <Content source={body} />
-          </div>
+            {title && (
+              <h1 className="SinglePost--Title" itemProp="title">
+                {title}
+              </h1>
+            )}
 
-          <div className="SinglePost--Pagination">
-            {prevPostURL && (
-              <Link
-                className="SinglePost--Pagination--Link prev"
-                to={prevPostURL}
-              >
-                Previous Post
-              </Link>
-            )}
-            {nextPostURL && (
-              <Link
-                className="SinglePost--Pagination--Link next"
-                to={nextPostURL}
-              >
-                Next Post
-              </Link>
-            )}
+            <div className="SinglePost--InnerContent">
+              <Content source={body} />
+            </div>
+
+            <div className="SinglePost--Pagination">
+              {prevPostURL && (
+                <Link
+                  className="SinglePost--Pagination--Link prev"
+                  to={prevPostURL}
+                >
+                  Previous Post
+                </Link>
+              )}
+              {nextPostURL && (
+                <Link
+                  className="SinglePost--Pagination--Link next"
+                  to={nextPostURL}
+                >
+                  Next Post
+                </Link>
+              )}
+            </div>
+
+            <DiscussionEmbed {...disqusConfig} />
           </div>
         </div>
-      </div>
-    </article>
-  </main>
-)
+      </article>
+    </main>
+  )
+}
 
 // Export Default SinglePost for front-end
 const SinglePost = ({ data: { post, allPosts } }) => {
@@ -124,6 +135,9 @@ export const pageQuery = graphql`
       ...Meta
       html
       id
+      fields {
+        slug
+      }
       frontmatter {
         title
         template
