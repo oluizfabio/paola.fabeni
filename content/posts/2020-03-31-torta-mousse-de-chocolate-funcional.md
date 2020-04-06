@@ -81,7 +81,7 @@ Derreta o chocolate em banho maria, adicione as 4 gemas e mexa por mais um minut
 
 Bata as 4 claras em neve com o sal. Quando estiverem firmes junte ao creme reservado 1/3 das claras em neve misturando rapidamente, e os outros 2/3 misture incorporando lentamente.  
 
-![](https://ucarecdn.com/f0ff758c-c361-4da2-8c97-d84cfc3006e8/)
+![torta de chocolate funcional](https://ucarecdn.com/3d084f9d-2143-4cef-9fcc-8955e155c7a7/)
 
 ## 
 
@@ -98,4 +98,4 @@ Decore à gosto, algumas sugestões:
 * Uvas passas e frutas secas 
 * Castanhas picadas, nozes e raspas de chocolate
 
-![](https://ucarecdn.com/e30f7fde-8e77-4546-9556-49f02cf676ae/-/crop/1732x1916/0,95/-/preview/)
+![torta de chocolate funcional](https://ucarecdn.com/d0d1ac39-fabb-4eb1-9837-8df260e3587a/-/crop/1732x1916/0,122/-/preview/)
