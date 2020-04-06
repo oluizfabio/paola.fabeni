@@ -3,7 +3,7 @@ template: SinglePost
 title: Risoto de camarão com limão siciliano
 status: Published
 date: 2020-03-31T23:25:50.212Z
-featuredImage: 'https://ucarecdn.com/493dd545-689f-4bb8-b34c-592ff239fe15/'
+featuredImage: 'https://ucarecdn.com/3c8c8c81-d78b-48d9-af14-373a0cf444be/'
 excerpt: |-
   Serve: 12 pessoas 
 
@@ -14,7 +14,7 @@ meta:
   description: Confira essa receita deliciosa e risoto de camarão com limão siciliano!
   title: Receita risoto de camarão com limão siciliano
 ---
-![risoto de camarão com limão siciliano](https://ucarecdn.com/28c080ad-74c0-4a5d-8ed2-22480ac7f510/)
+![risoto de camarão com limão siciliano](https://ucarecdn.com/310ff879-9493-4fe2-adf5-857c687e9f73/)
 
 O risoto é um preparo versátil, clássico e muito rico em sabor. A combinação de limão siciliano e camarão é surpreendente e refrescante.  
 
@@ -86,7 +86,7 @@ Rale o queijo na hora, com o ralado mais fino à disposição.
 
 Corte o alho poró ao meio, no sentido longitudinal. Dessa forma você acessa todas as camadas do legume, e consegue limpá-lo muito bem. 
 
-![](https://ucarecdn.com/d26b31a5-ed34-42ab-9d09-a1507694e509/)
+![risoto de camarão com limão siciliano](https://ucarecdn.com/4e96a1bb-6185-4003-a226-e4e558ad5378/)
 
 ## Preparo do risoto:
 
