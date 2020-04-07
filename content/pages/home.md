@@ -39,11 +39,11 @@ Então, por que não juntar duas coisas tão legais como: **conteúdo e cozinha*
 
 Não há por que não! Por isso você vai encontrar por aqui:
 
-* **Receitas salgadas,** 
-* **Dicas e bases para você criar seus pratos,** 
-* **Técnicas e receitas de confeitaria e claro,** 
-* Alguns conteúdos sobre [**comida e cultura**](https://paolafabeni.com/post-categories/comida-e-cultura/)**,** onde vamos poder analisar filmes, séries, programas e ativações culturais que falam sobre um tema tão essencial à vida humana e à nossa sociedade: a comida. 
+* **Receitas** salgadas, 
+* **Dicas e bases** para você criar seus pratos, 
+* Técnicas e receitas de **confeitaria** e claro, 
+* Alguns conteúdos sobre **comida e cultura,** onde vamos poder analisar filmes, séries, programas e ativações culturais que falam sobre um tema tão essencial à vida humana e à nossa sociedade: a comida. 
 
-
+Tudo isso ali no menu [**Blog**](https://paolafabeni.com/blog/), à distância de um clique!
 
 Te vejo por aqui! Um abraço, Paola
