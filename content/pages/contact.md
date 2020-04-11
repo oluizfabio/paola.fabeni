@@ -10,7 +10,7 @@ phone: .
 email: fabeni.paola@gmail.com
 locations: []
 meta:
-  description: This is a meta description.
+  description: Como posso ajudar você?
   title: Contact Page
 ---
 

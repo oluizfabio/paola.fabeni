@@ -138,6 +138,7 @@
     animation-fill-mode: both;
   }
   .Nav .NavLink {
+    text-align: center;
     font-size: 2.5rem;
     font-weight: 300;
   }
