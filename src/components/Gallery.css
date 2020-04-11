@@ -21,7 +21,6 @@
   width: calc(100% / 3 - 5rem);
   margin: 0;
   padding: 0;
-  cursor: pointer;
 }
 
 @media screen and (max-width: 750px) {
@@ -31,7 +30,7 @@
   }
 }
 
-.Gallery--Item > div {
+.Gallery--Item>div {
   position: relative;
   width: 100%;
   height: 25rem;

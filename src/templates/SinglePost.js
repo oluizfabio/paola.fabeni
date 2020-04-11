@@ -15,12 +15,15 @@ export const SinglePostTemplate = props => {
     nextPostURL,
     prevPostURL,
     categories = [],
-    fields: { slug }
+    fields
   } = props
 
-  const disqusConfig = {
-    shortname: process.env.GATSBY_DISQUS_NAME,
-    config: { identifier: slug, title }
+  let disqusConfig
+  if (fields) {
+    disqusConfig = {
+      shortname: process.env.GATSBY_DISQUS_NAME,
+      config: { identifier: fields.slug, title }
+    }
   }
   return (
     <main>
@@ -41,13 +44,15 @@ export const SinglePostTemplate = props => {
                   itemProp="dateCreated pubdate datePublished"
                   date={date}
                 >
-                  {new Date(date).toLocaleDateString('pt-BR', {
-                    hour: '2-digit',
-                    minute: '2-digit',
-                    day: '2-digit',
-                    month: '2-digit',
-                    year: 'numeric'
-                  })}
+                  {date instanceof Date
+                    ? new Date(date).toLocaleDateString('pt-BR', {
+                        hour: '2-digit',
+                        minute: '2-digit',
+                        day: '2-digit',
+                        month: '2-digit',
+                        year: 'numeric'
+                      })
+                    : date}
                 </time>
               )}
               {categories && categories.length > 0 && (
@@ -96,7 +101,7 @@ export const SinglePostTemplate = props => {
               )}
             </div>
 
-            <DiscussionEmbed {...disqusConfig} />
+            {disqusConfig && <DiscussionEmbed {...disqusConfig} />}
           </div>
         </div>
       </article>
@@ -142,7 +147,7 @@ export const pageQuery = graphql`
         title
         template
         subtitle
-        date(formatString: "MMMM Do, YYYY")
+        date(formatString: "DD/MM/YYYY")
         categories {
           category
         }

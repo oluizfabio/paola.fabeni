@@ -1,5 +1,4 @@
-.Contact {
-}
+.Contact {}
 
 .Contact--Details {
   margin-top: 3rem;
@@ -15,8 +14,7 @@
   transition: color 0.2s ease-in-out;
 }
 
-.Contact--Details--Item:hover,
-.Contact--Details--Item:focus {
+.Contact--Details--Item:hover, .Contact--Details--Item:focus {
   color: var(--primary);
 }
 
@@ -31,8 +29,7 @@
     justify-content: space-between;
     align-items: flex-start;
   }
-
-  .Contact--Section1--Container > * {
-    width: calc(50% - 2rem);
+  .Contact--Section1--Container>* {
+    width: calc(100% - 2rem);
   }
 }

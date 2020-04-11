@@ -13,9 +13,10 @@ meta:
   description: This is a meta description.
   title: Contact Page
 ---
+
 # Vamos conversar?
 
-Tem alguma sugestão, dúvida ou reclamação? Você pode falar comigo usando o formulário de contato ou me enviando um e-mail!
+Tem alguma sugestão, dúvida ou reclamação? Você pode falar comigo me enviando um e-mail!
 
 Você tem uma marca e gostaria de saber mais sobre meu trabalho com produção de conteúdo digital? Vamos bater um papo e entender como uma estratégia de conteúdo pode ajudar no crescimento do seu negócio!
 
