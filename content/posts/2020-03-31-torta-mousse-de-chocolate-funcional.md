@@ -43,7 +43,7 @@ Sem glúten e sem lactose, essa torta de chocolate funcional é perfeita para fe
 * 1/4 de xícara de castanha de caju (deixar de molho em água) 
 * 1/3 de xícara de uva passa hidratada em 1/2 xícara de água 
 
-## Mise em place base:
+## Mise en place base:
 
 Pique o chocolate. 
 
@@ -65,7 +65,7 @@ Incorpore a mistura de farinha de avelãs e cacau com cuidado e por último adic
 
 Asse a mistura numa forma de fundo removível com xx centímetros, untada com óleo de coco, em forno pré-aquecido a 190ºC por 20 minutos. 
 
-## Mise em place mousse:
+## Mise en place mousse:
 
 Coloque as castanhas de caju e as uvas passas de molho, separadamente.  
 
