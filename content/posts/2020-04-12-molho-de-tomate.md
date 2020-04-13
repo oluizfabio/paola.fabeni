@@ -10,6 +10,7 @@ excerpt: |-
   Tempo de preparo: 2 horas
 categories:
   - category: Receitas
+  - category: Bases
 meta:
   description: |-
     Uma receita fácil, prática e muito deliciosa!
