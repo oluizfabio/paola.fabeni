@@ -46,7 +46,7 @@ Esse prato tem feito sucesso nos almoços de família por aqui, e abaixo você c
 * 150g de queijo grana padano 
 * 2 limões sicilianos 
 
-## Mise em place caldo:
+## Mise en place caldo:
 
 Higienize todos os legumes, as cascas e principalmente as cabeças do camarão.  
 
@@ -68,7 +68,7 @@ Não salgue nem tempere o caldo, esse preparo deve conter um sabor natural e lim
 
 Você pode preparar o caldo e mantê-lo congelado. 
 
-## Mise em place risoto:
+## Mise en place risoto:
 
 Higienize os legumes e os camarõe. 
 
