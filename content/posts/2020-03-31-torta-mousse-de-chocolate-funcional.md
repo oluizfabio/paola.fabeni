@@ -27,7 +27,7 @@ Sem glúten e sem lactose, essa torta de chocolate funcional é perfeita para fe
 
 ## Ingredientes base:
 
-* 125g de xícara chocolate 70% picado 
+* 125g de chocolate 70% picado 
 * 3 colheres de sopa de óleo de coco 
 * 2 ovos 
 * 1/4 de xícara de xilitol 
