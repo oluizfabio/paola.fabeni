@@ -44,7 +44,7 @@ Sal e pimenta
 
 ![macarrão ao molho rosê](https://ucarecdn.com/357fddbe-5d8d-4bca-9c30-5ee1e97fcce5/-/crop/2309x1625/0,0/-/preview/)
 
-## Mise em place:
+## Mise en place:
 
 Colocar o macarrão para cozinhar em água fervente saldaginha. 
 
