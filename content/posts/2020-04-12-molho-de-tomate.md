@@ -16,6 +16,8 @@ meta:
     O molho de tomate definitivo para você :)
   title: 'Molho de tomate '
 ---
+![molho de tomate](https://ucarecdn.com/eec6d7cb-1955-4490-86f4-2e6a0dad77a4/)
+
 Essa é uma receita curinga, daquelas que faço quase toda semana, para deixar na geladeira ou ter congelada freezer. Mas mais do que a versatilidade de um molho de tomate, essa receita é especial para mim pois foi compartilhada comigo pela minha querida prima ([**@brunaveratti**](https://www.instagram.com/brunaveratti/)). 
 
 Acertar um bom molho de tomate não é fácil! Por isso quero compartilhar com você essa receita que é simples, deliciosa e muito prática, vamos lá? 
