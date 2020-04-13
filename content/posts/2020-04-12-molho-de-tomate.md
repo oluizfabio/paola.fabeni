@@ -8,6 +8,13 @@ excerpt: |-
   Rendimento: cerca de 750ml de molho 
 
   Tempo de preparo: 2 horas
+categories:
+  - category: Receitas
+meta:
+  description: |-
+    Uma receita fácil, prática e muito deliciosa!
+    O molho de tomate definitivo para você :)
+  title: 'Molho de tomate '
 ---
 Essa é uma receita curinga, daquelas que faço quase toda semana, para deixar na geladeira ou ter congelada freezer. Mas mais do que a versatilidade de um molho de tomate, essa receita é especial para mim pois foi compartilhada comigo pela minha querida prima ([**@brunaveratti**](https://www.instagram.com/brunaveratti/)). 
 
