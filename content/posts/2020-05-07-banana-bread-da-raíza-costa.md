@@ -4,7 +4,7 @@ title: Banana bread da Raíza Costa
 status: Published
 date: 2020-05-07T14:49:24.529Z
 featuredImage: >-
-  https://ucarecdn.com/98d50841-88b2-4920-b329-23d2bf95bb92/-/crop/2043x1732/0,0/-/preview/
+  https://ucarecdn.com/b676efd6-51b9-4113-9d37-1977daeeb84a/-/crop/1987x1732/0,0/-/preview/
 excerpt: |-
   Rende: 1 bolo com 22 cm
   Tempo de preparo: 1 hora
@@ -16,7 +16,7 @@ meta:
     Confira como preparar essa delícia em casa!
   title: Banana bread da Raíza Costa
 ---
-![bolo de banana](https://ucarecdn.com/4e83d90e-1c06-4f85-be31-9034697d9f75/-/crop/2007x1727/0,0/-/preview/)
+![bolo de banana](https://ucarecdn.com/9945b8ad-47ca-436a-abbf-08edc9f051dd/-/crop/1966x1727/0,0/-/preview/)
 
 Momento de confissão: nunca achei que teria vontade de fazer - e muito menos de comer - um bolo de banana!
 
@@ -52,7 +52,7 @@ Eu amei, de verdade! Por isso recomendo tentar essa receita,  seja você amante 
 
 200g de chocolate ao leite
 
-![bolo de banana](https://ucarecdn.com/0f460741-f525-45ee-bafb-3429769a57d0/)
+![bolo de banana](https://ucarecdn.com/725e7340-6b82-4b38-adb5-74671c1ea310/-/crop/3071x2157/0,0/-/preview/)
 
 ## Mise en place:
 
