@@ -64,6 +64,10 @@ Pese e separe todos os ingredientes.
 
 Confira no vídeo abaixo como preparar e assar seus cookies:
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sGzawGP2_Q8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+****
+
 **Relembrando dicas importantes:**
 
 * Após preparar a massa deixe ela descansando na geladeira por pelo menos 3 horas antes de assar.
