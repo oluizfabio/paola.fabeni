@@ -9,6 +9,11 @@ excerpt: |-
   Tempo de preparo: 1 hora 
 
   Rendimento: 2 litros
+categories:
+  - category: Bases
+meta:
+  description: 'Prepare seu caldo de legumes em casa, com muito sabor e saúde!'
+  title: Caldo de legumes
 ---
 ![caldo de legumes](https://ucarecdn.com/9b98e06f-dca1-4040-b89b-58ffa4052724/-/crop/768x832/0,97/-/preview/)
 
