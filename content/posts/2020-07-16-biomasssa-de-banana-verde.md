@@ -50,10 +50,6 @@ Confira no vídeo abaixo como preparar a sua biomassa de banana verde:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QQAjbKtqudM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-
-
-
 ## Dicas de aplicação da biomassa
 
 * Pães e bolos: 1/2 xícara de chá de biomassa
