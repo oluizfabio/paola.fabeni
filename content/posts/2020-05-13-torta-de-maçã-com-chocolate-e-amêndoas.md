@@ -112,3 +112,9 @@ Leve para assar em forno pré-aquecido em 150 graus, até que a torta esteja dou
 Deixe esfriar antes de desenformar e servir! 
 
 ![torta de maçã](https://ucarecdn.com/f0315766-361f-4868-9d84-8ca1cdfa1adc/)
+
+
+
+Você pode conferir neste vídeo todos os passos de preparo dessa torta:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EQXx9RPINXE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
