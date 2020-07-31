@@ -78,3 +78,7 @@ Pitada de sal
 No liquidificador coloque os dois ovos, comece a processar na velocidade mínima e adicione o óleo em fio. Assim que a maionese adquirir estrutura (quando ela não forma mais um buraco no meio, quando o liquidificador está ligado) adicione o suco de meio limão e a pitada de sal. Processe novamente, prove e ajuste o sabor, se necessário. 
 
 Caso a maionese perca estrutura depois de temperar, ligue o liquidificador novamente e adicione mais óleo em fio, até chegar à textura desejada.
+
+Confira no vídeo abaixo o preparo do bolinho e da maionese:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BqpFRrTB9o0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
