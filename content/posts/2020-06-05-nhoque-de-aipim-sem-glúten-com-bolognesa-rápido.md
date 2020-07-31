@@ -86,3 +86,7 @@ Aqui gostamos do molho de tomate mais consistente. Então reduzi ele até chegar
 Coloque o molho por cima do nhoque numa travessa e sirva! 
 
 ![nhoque de aipim sem glúten](https://ucarecdn.com/77e92a93-f926-4d56-a455-d04456ac6795/-/crop/960x1164/0,0/-/preview/)
+
+Confira nesse vídeo o preparo do nhoque e do molho bolonhesa:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vf2i5wuTaF8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
