@@ -62,3 +62,5 @@ Separe e pese todos os ingredientes.
 Preparo
 
 Confira no vídeo abaixo o preparo dessa torta:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43as5Q-l-8E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
