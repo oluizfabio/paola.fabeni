@@ -51,19 +51,13 @@ Sal, pimenta do reino, pimenta calabresa
 
 Manjericão fresco
 
-
-
 # Mise en place
 
 Prepare o [caldo de legumes](https://paolafabeni.com/posts/caldo-de-legumes/), o [molho de tomate](https://paolafabeni.com/posts/molho-de-tomate/) e o [molho pesto](https://paolafabeni.com/posts/molho-pesto/) previamente.
 
-
-
 Pique os dentes de alho e a mozzarela de búfala.
 
 Separe todos os ingredientes.
-
-
 
 # Preparo
 
