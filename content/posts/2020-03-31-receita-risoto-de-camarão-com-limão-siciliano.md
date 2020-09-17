@@ -9,7 +9,7 @@ excerpt: |-
 
   Tempo de preparo: 2 horas 
 categories:
-  - category: Receitas
+  - category: Receitas salgadas
 meta:
   description: Confira essa receita deliciosa e risoto de camarão com limão siciliano!
   title: Receita risoto de camarão com limão siciliano
