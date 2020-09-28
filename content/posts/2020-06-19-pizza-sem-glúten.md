@@ -9,7 +9,8 @@ excerpt: |-
   Rende: 2 pizzas de 30cm
   Tempo de preparo: 2 horas
 categories:
-  - category: Receitas
+  - category: Receitas salgadas
+  - category: Sem glúten
 meta:
   description: >-
     Aprenda a fazer uma pizza sem glúten deliciosa! Preparamos ela em duas
