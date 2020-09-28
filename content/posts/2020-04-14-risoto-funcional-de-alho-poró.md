@@ -9,7 +9,10 @@ excerpt: |-
 
   Tempo de preparo: 40 minutos 
 categories:
-  - category: Receitas
+  - category: Receitas salgadas
+  - category: Sem glúten
+  - category: Sem lactose
+  - category: Vegetarianas
 meta:
   description: >-
     Que tal aprender uma opção de risoto com um grão integral, sem lactose mas
