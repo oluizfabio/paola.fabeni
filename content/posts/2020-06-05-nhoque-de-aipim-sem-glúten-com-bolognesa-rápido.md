@@ -10,7 +10,9 @@ excerpt: |-
 
   Tempo de preparo: 1 hora 
 categories:
-  - category: Receitas
+  - category: Receitas salgadas
+  - category: Sem glúten
+  - category: Sem lactose
 meta:
   description: |-
     Um nhoque sem glúten delicioso! Um molho bognesa natural e rápido.
