@@ -10,6 +10,8 @@ excerpt: |-
   Rendimento: 500 ml de creme
 categories:
   - category: Bases
+  - category: Receitas salgadas
+  - category: Sem lactose
 meta:
   description: |-
     Ideal para substituir o creme de leite em receitas sem lactose.
