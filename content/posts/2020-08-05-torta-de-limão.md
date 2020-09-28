@@ -9,7 +9,7 @@ excerpt: |-
   Rendimento: 10 fatias
   Tempo de preparo: 2 horas
 categories:
-  - category: Confeitaria
+  - category: Receitas doces
 meta:
   description: >-
     Massa amanteigada e crocante. Creme de limão liso e azedinho. Merengue
