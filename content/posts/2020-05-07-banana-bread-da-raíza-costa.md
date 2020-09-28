@@ -9,7 +9,7 @@ excerpt: |-
   Rende: 1 bolo com 22 cm
   Tempo de preparo: 1 hora
 categories:
-  - category: Confeitaria
+  - category: Receitas doces
 meta:
   description: |-
     Um bolo de banana com chocolate, cheio de amor e sabor.
