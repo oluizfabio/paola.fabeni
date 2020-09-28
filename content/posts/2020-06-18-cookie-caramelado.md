@@ -9,7 +9,7 @@ excerpt: |-
   Rende: 25 cookies
   Tempo de preparo: 2 horas
 categories:
-  - category: Confeitaria
+  - category: Receitas doces
 meta:
   description: >-
     Aprenda a preparar a melhor receita de cookies! Crocantes por fora, macios
@@ -66,7 +66,7 @@ Confira no vídeo abaixo como preparar e assar seus cookies:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sGzawGP2_Q8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-****
+- - -
 
 **Relembrando dicas importantes:**
 
