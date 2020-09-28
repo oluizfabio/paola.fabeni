@@ -9,7 +9,10 @@ excerpt: |-
   Rende: 500g
   Tempo de preparo: 30 minutos
 categories:
-  - category: Receitas
+  - category: Receitas salgadas
+  - category: Sem glúten
+  - category: Sem lactose
+  - category: Vegetarianas
 meta:
   description: 'Aprenda a fazer o hommus: uma pastinha de grão de bico saborosa e nutritiva!'
   title: Como fazer hommus
