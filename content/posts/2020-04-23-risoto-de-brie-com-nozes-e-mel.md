@@ -10,7 +10,8 @@ excerpt: |-
 
   Tempo de preparo: 40 minutos 
 categories:
-  - category: Receitas
+  - category: Receitas salgadas
+  - category: Vegetarianas
 meta:
   description: |-
     Uma receita diferente, porém uma combinação perfeita: brie, nozes e mel.
