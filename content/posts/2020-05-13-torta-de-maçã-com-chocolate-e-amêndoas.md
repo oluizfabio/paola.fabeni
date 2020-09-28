@@ -9,7 +9,7 @@ excerpt: |-
 
   Tempo de preparo: 1h30 
 categories:
-  - category: Confeitaria
+  - category: Receitas doces
 meta:
   description: >-
     Macia, molhadinha e deliciosa! Vem conhecer essa receita que além de linda,
