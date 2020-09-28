@@ -9,7 +9,9 @@ excerpt: |-
   Serve: 2 pessoas
   Tempo de preparo: 40 minutos
 categories:
-  - category: Receitas
+  - category: Receitas salgadas
+  - category: Sem glúten
+  - category: Sem lactose
 meta:
   description: >-
     Nesse post você vai aprender 3 preparos incríveis: o leite de coco, o frango
