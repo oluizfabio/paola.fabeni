@@ -10,7 +10,9 @@ excerpt: |-
 
   Tempo de preparo: 40  minutos 
 categories:
-  - category: Receitas
+  - category: Receitas salgadas
+  - category: Sem glúten
+  - category: Sem lactose
 meta:
   description: >-
     Vem cá conferir essa receita do bem, cheia de sabor a amor!
