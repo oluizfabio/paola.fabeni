@@ -9,7 +9,7 @@ excerpt: |-
 
   Tempo de preparo: 40 minutos 
 categories:
-  - category: Receitas
+  - category: Receitas salgadas
 meta:
   description: |-
     Uma combinação clássica e deliciosa: salmão + limão siciliano.
