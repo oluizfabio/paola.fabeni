@@ -10,7 +10,10 @@ excerpt: |-
 
   Tempo de preparo: 20 minutos 
 categories:
-  - category: Receitas
+  - category: Receitas salgadas
+  - category: Vegetarianas
+  - category: Sem glúten
+  - category: Sem lactose
 meta:
   description: >-
     Vem conferir a minha versão de guacamole, essa receita que está rompendo as
