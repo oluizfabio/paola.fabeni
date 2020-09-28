@@ -8,7 +8,9 @@ excerpt: |-
   Rende: 30 bolinhos
   Tempo de preparo: 1 hora
 categories:
-  - category: Receitas
+  - category: Receitas salgadas
+  - category: Sem glúten
+  - category: Sem lactose
 meta:
   description: >-
     Um petisco delicioso, cheio de sabor e super inclusivo.
