@@ -9,6 +9,7 @@ excerpt: |-
   Tempo de preparo: 30 minutos
 categories:
   - category: Bases
+  - category: Sem lactose
 meta:
   description: >-
     Aprenda a fazer a biomassa de banana verde, um super alimento da gastronomia
