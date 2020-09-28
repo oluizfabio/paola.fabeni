@@ -8,7 +8,7 @@ excerpt: |-
   Serve: 1 pessoa
   Tempo de preparo: 40 minutos
 categories:
-  - category: Receitas
+  - category: Receitas salgadas
 meta:
   description: |-
     Uma salada deliciosa, acompanhada de um molho ainda mais incrível.
