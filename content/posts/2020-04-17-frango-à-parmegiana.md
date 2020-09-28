@@ -10,7 +10,7 @@ excerpt: |-
 
   Tempo de preparo: 40 minutos 
 categories:
-  - category: Receitas
+  - category: Receitas salgadas
 meta:
   description: |-
     Uma receita simples e deliciosa.
