@@ -9,7 +9,10 @@ excerpt: |-
   Serve: 2 pessoas
   Tempo de preparo: 1 hora
 categories:
-  - category: Receitas
+  - category: Receitas salgadas
+  - category: Vegetarianas
+  - category: Sem glúten
+  - category: Sem lactose
 meta:
   description: >-
     Aprenda a preparar esse risoto delicioso, cheio de sabor e saúde! Sem
