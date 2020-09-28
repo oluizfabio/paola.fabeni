@@ -9,7 +9,7 @@ excerpt: |-
   Rende: 12 empanadas
   Tempo de preparo: 2 horas
 categories:
-  - category: Receitas
+  - category: Receitas salgadas
 meta:
   description: >-
     Empanadas são salgados assados, douradinhos, com massa crocante e muuuuuito
