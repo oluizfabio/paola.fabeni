@@ -9,7 +9,7 @@ excerpt: |
 
   Tempo de preparo: 30 minutos 
 categories:
-  - category: Receitas
+  - category: Receitas salgadas
 meta:
   description: >-
     Quem não gosta de uma bela massa carbonara, não é mesmo?
