@@ -10,7 +10,8 @@ excerpt: |-
   Principal: massa carbonara
   Sobremesa: brownie de chocolate
 categories:
-  - category: Receitas
+  - category: Receitas doces
+  - category: Receitas salgadas
 meta:
   description: >-
     Quero te ajudar a preparar um jantar incrível para o dia dos namorados.
