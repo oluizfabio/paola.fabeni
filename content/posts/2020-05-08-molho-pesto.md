@@ -11,7 +11,9 @@ excerpt: |
 
   Tempo de preparo: 30 minutos 
 categories:
-  - category: Receitas
+  - category: Bases
+  - category: Receitas salgadas
+  - category: Vegetarianas
 meta:
   description: >-
     Vem dar uma chance pro molho pesto! Ele é verde, diferentão, mas muito
