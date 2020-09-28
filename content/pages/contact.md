@@ -13,11 +13,10 @@ meta:
   description: Como posso ajudar você?
   title: Contact Page
 ---
-
 # Vamos conversar?
 
 Tem alguma sugestão, dúvida ou reclamação? Você pode falar comigo me enviando um e-mail!
 
 Você tem uma marca e gostaria de saber mais sobre meu trabalho com produção de conteúdo digital? Vamos bater um papo e entender como uma estratégia de conteúdo pode ajudar no crescimento do seu negócio!
 
-Quer conferir todas as receitas e postagens? [**Acesse o blog aqui**](http://paolafabeni.com/blog/)**.**
+Quer conferir todas as receitas? [**Acesse aqui**](http://paolafabeni.com/blog/)**.**
