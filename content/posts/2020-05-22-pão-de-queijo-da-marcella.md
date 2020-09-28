@@ -9,7 +9,8 @@ excerpt: |-
 
   Tempo de preparo: 1 hora 
 categories:
-  - category: Receitas
+  - category: Receitas salgadas
+  - category: Vegetarianas
 meta:
   description: |-
     Uma receita de pão de queijo verdadeiramente mineira!
