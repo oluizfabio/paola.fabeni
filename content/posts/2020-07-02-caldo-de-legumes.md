@@ -11,6 +11,7 @@ excerpt: |-
   Rendimento: 2 litros
 categories:
   - category: Bases
+  - category: Receitas salgadas
 meta:
   description: 'Prepare seu caldo de legumes em casa, com muito sabor e saúde!'
   title: Caldo de legumes
