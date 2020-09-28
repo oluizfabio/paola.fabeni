@@ -9,7 +9,8 @@ excerpt: |-
 
   Tempo de preparo: 30 minutos
 categories:
-  - category: Receitas
+  - category: Receitas salgadas
+  - category: Vegetarianas
 meta:
   description: |-
     Uma receita rápida, prática e muito deliciosa!
