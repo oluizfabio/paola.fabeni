@@ -3,7 +3,6 @@ import { MapPin, Mail } from 'react-feather'
 import { graphql } from 'gatsby'
 
 import PageHeader from '../components/PageHeader'
-import FormSimpleAjax from '../components/FormSimpleAjax'
 import Content from '../components/Content'
 import Layout from '../components/Layout'
 import './ContactPage.css'

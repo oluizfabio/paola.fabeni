@@ -1,5 +1,4 @@
 import React from 'react'
-import InstagramFeed from './InstagramFeed'
 import './Footer.css'
 
 export default () => (
@@ -19,8 +18,6 @@ export default () => (
         @paolafabeni
       </a>
     </h2>
-    <br />
-    <InstagramFeed count="8" />
     <footer className="footer">
       <div className="container taCenter">
         <span>© Copyright {new Date().getFullYear()} Paola Fabeni.</span>

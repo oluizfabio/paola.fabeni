@@ -1,7 +1,7 @@
 {
   "name": "paolafabeni",
   "HomePage": "https://paolafabeni.com/",
-  "description": "An opinionated starter project for creating lightning-fast websites with Gatsby v2 and Netlify CMS v2",
+  "description": "Receitas, dicas e conteúdos sobre gastronomia.",
   "version": "2.0.0",
   "repository": {
     "type": "git",
@@ -57,6 +57,7 @@
     "build": "gatsby build",
     "develop": "gatsby develop",
     "clean": "del-cli .cache public",
+    "build-serve": "gatsby build && gatsby serve",
     "serve": "gatsby serve",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"{gatsby-*.js,src/**/*.js}\"",
     "test": "echo \"Error: no test specified\" && exit 1"

@@ -15,6 +15,7 @@ gallery:
 meta:
   description: 'Receitas, dicas e conteúdos sobre gastronomia.'
 ---
+
 Olá! Eu sou a Paola e por aqui compartilho algumas **receitas**, **conteúdos** e pensamentos sobre o universo da **gastronomia**!
 
 Não sei muito bem quando a paixão por cozinhar começou a nascer dentro de mim, mas sei que ela cresce a cada dia. Chegou um momento em que decidi unir o amor pela cozinha à outra faceta da minha vida: a **produção de conteúdo**.
@@ -27,12 +28,12 @@ Então, por que não juntar duas coisas tão legais como: **conteúdo e cozinha*
 
 Não há por que não! Por isso você vai encontrar por aqui:
 
-* **Receitas** salgadas,
-* **Dicas e bases** para você criar seus pratos,
-* Técnicas e receitas de **confeitaria** e claro,
-* Alguns conteúdos sobre **comida e cultura,** onde vamos poder analisar filmes, séries, programas e ativações culturais que falam sobre um tema tão essencial à vida humana e à nossa sociedade: a comida.
+- **Receitas** salgadas,
+- **Dicas e bases** para você criar seus pratos,
+- Técnicas e receitas de **confeitaria** e claro,
+- Alguns conteúdos sobre **comida e cultura,** onde vamos poder analisar filmes, séries, programas e ativações culturais que falam sobre um tema tão essencial à vida humana e à nossa sociedade: a comida.
 
-Tudo isso bem ****[**aqui**](https://paolafabeni.com/blog/), à distância de um clique!
+Tudo isso bem [**aqui**](https://paolafabeni.com/blog/), à distância de um clique!
 
 Te vejo por aqui!
 Um abraço, Paola
