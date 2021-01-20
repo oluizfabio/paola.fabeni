@@ -77,6 +77,10 @@ export default class Meta extends Component {
             `}
           </script>
         )}
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
+        ></script>
       </Helmet>
     )
   }

@@ -1,6 +1,7 @@
 import React from 'react'
 
 import PostCard from '../components/PostCard'
+import Ads from './Ads'
 import './PostSection.css'
 
 class PostSection extends React.Component {
@@ -9,7 +10,7 @@ class PostSection extends React.Component {
     title: '',
     limit: 12,
     showLoadMore: true,
-    loadMoreTitle: 'Load More',
+    loadMoreTitle: 'Veja mais',
     perPageLimit: 12
   }
 
@@ -33,7 +34,15 @@ class PostSection extends React.Component {
         {!!visiblePosts.length && (
           <div className="PostSection--Grid">
             {visiblePosts.map((post, index) => (
-              <PostCard key={post.title + index} {...post} />
+              <>
+                <PostCard key={post.title + index} {...post} />
+                {index % 4 === 0 && (
+                  <Ads
+                    dataAdClient="ca-pub-7200440820781128"
+                    dataAdSlot="5446853904"
+                  />
+                )}
+              </>
             ))}
           </div>
         )}
