@@ -2,8 +2,7 @@
 template: ContactPage
 slug: contact
 title: Contato
-featuredImage: >-
-  https://ucarecdn.com/04edc54b-ded1-4820-914f-ad7be44bb109/-/crop/3594x1613/45,349/-/preview/
+featuredImage: 'https://ucarecdn.com/038f8335-dc10-4505-bd4b-9324fc8a4b17/'
 subtitle: Como posso ajudar você?
 address: Blumenau - SC
 phone: .
