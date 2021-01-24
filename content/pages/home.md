@@ -2,8 +2,7 @@
 template: HomePage
 slug: ''
 title: Paola Fabeni
-featuredImage: >-
-  https://ucarecdn.com/0d4d946c-19df-49fc-aebc-1a51a5dad8cc/-/crop/2309x803/0,274/-/preview/
+featuredImage: 'https://ucarecdn.com/4c21de57-0e95-47e3-b60c-73665a4a69b5/'
 subtitle: 'Receitas, dicas e conteúdos sobre gastronomia.'
 gallery:
   - alt: Paola Fabeni
