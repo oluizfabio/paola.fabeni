@@ -1,7 +1,6 @@
 ---
 template: BlogIndex
 title: Sem lactose
-featuredImage: >-
-  https://ucarecdn.com/981a035b-dfc8-48f0-83ca-c9712d408f82/-/crop/2309x1392/0,203/-/preview/
+featuredImage: 'https://ucarecdn.com/a6b3150f-ba7a-4dd6-b3b9-f5e01e96af2e/'
 ---
 
