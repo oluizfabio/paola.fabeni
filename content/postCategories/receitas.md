@@ -1,7 +1,7 @@
 ---
 template: BlogIndex
 title: Receitas salgadas
-featuredImage: 'https://ucarecdn.com/8e91b539-22b1-4e24-ad3d-7cd3923f2e9f/'
+featuredImage: 'https://ucarecdn.com/2321f00e-83e3-4e04-90df-9d51c559f5b5/'
 meta:
   description: Conheça receitas com muito sabor e amor.
   title: Receitas salgadas
