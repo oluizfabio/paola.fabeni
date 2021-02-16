@@ -3,6 +3,8 @@ template: SinglePost
 title: Massa com salmão e limão siciliano
 status: Published
 date: 2021-02-16T15:17:47.793Z
+featuredImage: >-
+  https://ucarecdn.com/6a3cdb5c-7c89-4090-a668-730ded9e9fe2/-/crop/1922x1035/126,284/-/preview/
 excerpt: |-
   Tempo de preparo: 20 minutos
   Serve 2 pessoas
