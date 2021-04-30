@@ -5,6 +5,12 @@ status: Published
 date: 2021-04-30T18:33:56.758Z
 featuredImage: 'https://ucarecdn.com/42ebc175-c4a2-4963-b24c-dcf8bfb47177/'
 excerpt: 'Tempo de leitura: 5 minutos'
+categories: []
+meta:
+  description: >-
+    10 dicas para você preparar um jantar romântico inesquecível em casa!
+    Comida, vinho, decoração e mais. Leia e descubra.
+  title: Jantar romântico em casa
 ---
 ![jantar romântico em casa](https://ucarecdn.com/522ccf33-a64b-42e2-adde-39d7abfd0a21/)
 
