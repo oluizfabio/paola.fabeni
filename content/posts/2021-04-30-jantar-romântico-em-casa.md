@@ -5,7 +5,8 @@ status: Published
 date: 2021-04-30T18:33:56.758Z
 featuredImage: 'https://ucarecdn.com/42ebc175-c4a2-4963-b24c-dcf8bfb47177/'
 excerpt: 'Tempo de leitura: 5 minutos'
-categories: []
+categories:
+  - category: Conteúdos
 meta:
   description: >-
     10 dicas para você preparar um jantar romântico inesquecível em casa!
