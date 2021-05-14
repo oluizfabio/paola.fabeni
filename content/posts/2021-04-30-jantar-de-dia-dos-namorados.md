@@ -47,9 +47,9 @@ Caso você e seu parceiro ou parceira não tenham o hábito de cozinharem juntos
 
 Não há necessidade de cozinhar algo mirabolante, demorado e complexo. Essa é a ocasião perfeita para apostar na simples e clássica confort food!  
 
-Quer uma ideia de quais receitas cozinhar? Estou preparando um material especialmente para o jantar de dia dos namorados. Ele conta com 3 receitas: uma entrada, um prato principal e uma sobremesa, todas deliciosas, leves e surpreendentes, para tornar a noite de vocês ainda mais especial. 
+Quer uma ideia de quais receitas cozinhar? Preparei um material especialmente para o jantar de dia dos namorados. Ele conta com 3 receitas: uma entrada, um prato principal e uma sobremesa, todas deliciosas, leves e surpreendentes, para tornar a noite de vocês ainda mais especial. 
 
-## [Se cadastre aqui para receber o lançamento em primeira mão com um desconto de 25%. ](https://conteudo.paolafabeni.com/pre-lancamento-nrp-2021)
+## [Compre aqui com um desconto exclusivo de 25%.](https://conteudo.paolafabeni.com/pagina-de-vendas-nrp-desconto-25)
 
 # 4. Ambiente intimista e aconchegante
 
@@ -79,4 +79,4 @@ Caso eu tenha te convencido a ficar em casa para o jantar de dia dos namorados n
 * Não deixe que nada ou ninguém atrapalhe o momento de vocês 
 * Desfrute! 
 
-E lembre-se que eu posso te ajudar a preparar A Noite Romântica Perfeita: com comida, vinho, música e ambiente! Quer saber como? [Descubra aqui.](https://conteudo.paolafabeni.com/pre-lancamento-nrp-2021)
+## E lembre-se que eu posso te ajudar a preparar A Noite Romântica Perfeita: com comida, vinho, música e ambiente! Quer saber como? [Descubra aqui.](https://conteudo.paolafabeni.com/pagina-de-vendas-nrp-desconto-25)
