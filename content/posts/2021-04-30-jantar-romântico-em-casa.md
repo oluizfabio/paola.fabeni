@@ -33,7 +33,7 @@ Leve em consideração os perfis de sabores, as texturas e os tipos de culinári
 
 Se você não sabe nem por onde começar a pensar num cardápio para seu **jantar romântico**, eu posso ajudar! Preparei um material com **receitas simples e deliciosas de entrada, prato principal e sobremesa**, todas planejadas para um jantar a dois. 
 
-## [Saiba mais aqui.](https://conteudo.paolafabeni.com/pre-lancamento-nrp-2021)
+## [Saiba mais aqui.](https://conteudo.paolafabeni.com/pagina-de-vendas-nrp-desconto-25)
 
 # 2. Escolha receitas e técnicas que você já tenha afinidade
 
@@ -59,7 +59,7 @@ Você não precisa ser _sommelière_ para escolher uma boa bebida para seu **jan
 
 Lembre-se que uma harmonização pode ocorrer de acordo com alguns princípios como contraste ou afinidade de sabor! Para mais conteúdos nessa área eu indico a [Charlene](https://www.instagram.com/cha_sommeliere/), _sommelière_ com quem tive a oportunidade de trabalhar num projeto muito legal, e que possui um conteúdo  de muito valor. 
 
-A Charlene realizou a harmonização de 3 receitas minhas com vinhos incríveis, e você pode replicar esse jantar aí na sua casa, [saiba mais aqui](https://conteudo.paolafabeni.com/pre-lancamento-nrp-2021). 
+## A Charlene realizou a harmonização de 3 receitas minhas com vinhos incríveis, e você pode replicar esse jantar aí na sua casa, [saiba mais aqui. ](https://conteudo.paolafabeni.com/pagina-de-vendas-nrp-desconto-25)
 
 # 5. Compre ingredientes com antecedência
 
